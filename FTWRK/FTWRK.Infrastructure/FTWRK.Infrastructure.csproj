@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>b08198f1-b9ed-4245-b505-b5bfab6d0d88</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Identity.MongoDbCore" Version="3.1.2" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.58.0" />
+    <PackageReference Include="MailKit" Version="3.4.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.11" />
+    <PackageReference Include="NAudio" Version="2.1.0" />
+    <PackageReference Include="OggVorbisEncoder" Version="1.2.2" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.24" />
+    <PackageReference Include="TagLibSharp" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FTWRK.Application\FTWRK.Application.csproj" />
+  </ItemGroup>
+
+</Project>
