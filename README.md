@@ -11,7 +11,7 @@ Welcome to FTWRK, where music reaches new heights through innovation. Our except
 
 🔊 Discover Albums, Create Playlists: Immerse yourself in an array of albums, and express your musical identity by crafting and enjoying playlists curated just for you. Explore what other users are vibing to and connect through the language of music.
 
-🎧 Experience Unmatched Quality: With OGG files, you're in for a treat. SoundWaveHub's conversion technology maintains the highest quality audio, ensuring you hear your favorite tracks like never before.
+🎧 Experience Unmatched Quality: With OGG files, you're in for a treat. FTWRK's conversion technology maintains the highest quality audio, ensuring you hear your favorite tracks like never before.
 
 📊 Empowered by MongoDB: FTWRK's backbone rests on MongoDB, guaranteeing robust data management and retrieval. Your music preferences, playlists, and interactions are in secure hands.
 
