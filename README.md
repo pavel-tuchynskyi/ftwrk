@@ -1,4 +1,4 @@
-# ftwrk
+# FTWRK
 Welcome to FTWRK, where music reaches new heights through innovation. Our exceptional application, built with the dynamic fusion of ASP.NET Core and Angular, combines the prowess of AZURE functions and MongoDB to redefine how you engage with music.
 
 🎵 Elevate Your Music Library: Immerse yourself in the world of melodies with FTWRK. Our platform not only lets you listen to albums but also empowers you to create your playlists from converted MP3 and WAV files to high-quality OGG, ensuring your tunes sound even better.
